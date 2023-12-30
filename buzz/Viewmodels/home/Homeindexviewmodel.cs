@@ -4,7 +4,7 @@ namespace buzz.Viewmodels.home
 {
     public class Homeindexviewmodel
     {
-        public List<recentwork> recentworks { get; set; }
+        public List<recentwork> Recentworks { get; set; }
 
     }
 }
